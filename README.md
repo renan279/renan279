@@ -47,7 +47,6 @@
 <img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
   
@@ -56,7 +55,6 @@
 📍 **Oficial Administrativo** - Itapeva/SP, Brasil
 
 
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/adobe ptohoshop-0089D6?logo=adobe-photoshop&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/adobe premiere-0089D6?logo=adobe-premiere-pro&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/adobe after effects-0089D6?logo=adobe-after-effects&logoColor=white" />
