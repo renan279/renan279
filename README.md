@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align='center'>
   Olá! 👋 Me chamo Renan. 👨‍💻
 </h1>
@@ -10,13 +8,8 @@
 </p>
 
 
-
-
-
-
 <details>
   <summary>📃 Resume</summary>
-
 
 ## Formação
 
@@ -24,7 +17,7 @@
 📆 2013 - 2018\
 📍 **Universidade Tecnológica Federal do Paraná - UTFPR** - Ponta Grossa - PR, Brasil
 
-## Experience
+## Experiência
 
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
@@ -91,7 +84,7 @@
 
 </details>
 
-
+<!--
 <details>
   <summary>📦 Packages</summary>
   
@@ -104,7 +97,7 @@
 <!-- | Content Cell         | Content Cell                                | link | link | -->
   
 </details>
-
+-->
 
 
 <!--
