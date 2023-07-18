@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+
+
+## Education
+
+- 📖 **Web Development**\
+📆 2013 - 2016\
+📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+
 <!--
 **renan279/renan279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
