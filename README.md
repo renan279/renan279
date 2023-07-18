@@ -31,7 +31,7 @@
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 
 <img align="right" src="https://img.shields.io/badge/AngularJS-239120?logo=angularjs&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/NodeJS-239120?logo=nodejs&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Node JS-239120?logo=node-js&logoColor=white" />
 
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
