@@ -9,7 +9,7 @@
 
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary>📃 Resumo</summary>
 
 ## Formação
 
