@@ -55,7 +55,8 @@
 📍 **Oficial Administrativo** - Itapeva/SP, Brasil
 
 
-<img align="right" src="https://img.shields.io/badge/adobe ptohoshop-0089D6?logo=adobe-photoshopt&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/adobe ptohoshop-0089D6?logo=adobe-photoshop&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/adobe after efects-0089D6?logo=Adobe-After-Effects-2019&logoColor=white" />
 
 - 👨‍💻 **Video Lopes Produções**\
 📆 2006 - 2010\
