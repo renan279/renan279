@@ -44,19 +44,18 @@
 📍 **Tech Lider** - Ponta Grossa/PR, Brasil
 
   
+<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/UWP-0089D6?logo=microsoft&logoColor=white" />
   
 - 👨‍💻 **Secretaria Municipal de Cultura e Turismo de Itapeva**\
 📆 2010 - 2013\
 📍 **Oficial Administrativo** - Itapeva/SP, Brasil
 
 
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
-
-
-<img align="right" src="https://img.shields.io/badge/UWP-0089D6?logo=microsoft&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/adobe ptohoshop-0089D6?logo=adobe-photoshopt&logoColor=white" />
 
 - 👨‍💻 **Video Lopes Produções**\
 📆 2006 - 2010\
