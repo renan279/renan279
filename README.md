@@ -49,7 +49,7 @@
 
 
 <img align="right" src="https://img.shields.io/badge/adobe ptohoshop-0089D6?logo=adobe-photoshop&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/adobe premiere-0089D6?logo=adobe-premiere-pro&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/adobe premiere-330D3E?logo=adobe-premiere-pro&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/adobe after effects-0089D6?logo=adobe-after-effects&logoColor=white" />
 
 - 👨‍💻 **Video Lopes Produções**\
