@@ -24,8 +24,8 @@
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 
-<img align="right" src="https://img.shields.io/badge/AngularJS-239120?logo=angularjs&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Node.js-239120?logo=node.js&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/AngularJS-a6120d?logo=angularjs&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Node.js-3c873a?logo=node.js&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
