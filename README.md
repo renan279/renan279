@@ -4,7 +4,7 @@
 
 <p align='center'>
   Atualmente sou desenvolvedor Front-End e UI/UX Designer.
-  Atuei no passado como editor de vídeo e imagem.
+  Tenho experiência como editor de vídeo e imagem.
 </p>
 
 
