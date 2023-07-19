@@ -26,6 +26,7 @@
 
 <img align="right" src="https://img.shields.io/badge/Sass-cc6699?logo=sass&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Grunt-453014?logo=grunt&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/AngularJS-a6120d?logo=angularjs&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Node.js-3c873a?logo=node.js&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
