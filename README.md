@@ -13,16 +13,18 @@
 
 ## Formação
 
+<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
+
 - 📖 **Bacharel em Ciência da Computação**\
 📆 2013 - 2018\
 📍 **Universidade Tecnológica Federal do Paraná - UTFPR** - Ponta Grossa - PR, Brasil
 
 ## Experiência
 
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
+
 
 <img align="right" src="https://img.shields.io/badge/AngularJS-a6120d?logo=angularjs&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Node.js-3c873a?logo=node.js&logoColor=white" />
