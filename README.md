@@ -13,7 +13,7 @@
 
 ## Formação
 
-<img align="right" src="https://img.shields.io/badge/Java-89820?logo=java&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Java Script-89820?logo=java-script&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
