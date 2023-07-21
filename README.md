@@ -90,7 +90,9 @@
 
 | Nome                 | Descrição                                    |
 | -------------------- | -------------------------------------------- | 
+| [Cartago Tecnologia](https://www.cartago.net.br/#!/) | Desenvolvedora de softwares e apps.  |
 | [Yo! Solutions](https://yosolutions.com.br/) | Soluções para eventos no geral.  |
+| [Yo! Ingressos](https://yoingressos.com.br/#/home) | Venda de ingressos online.  |
 | [LigVideo](https://www.ligvideo.com.br/#!/) | Atendimento online.  |
 | [MED192](https://med192.com/#!/) | Atendimento médico online.  |
 | [Museu Cenas de Ponta Grossa](https://www.museucenas.com.br/#/) | Museu de imagens online.  |
@@ -98,6 +100,8 @@
 | [Sistema Administrativo Megadrone Brasil](https://suporte.megadronebrasil.com.br/#/) | Sistema de Atendimento ao Consumidor.  |
 | [Wiki Megadrone Brasil](http://wiki.megadronebrasil.com.br/home/) | Wiki Megadrone Brasil.  |
 | [YouTube - Cartago Tecnologia](https://www.youtube.com/@cartagotecnologia9670/videos) | Vídeo comerciais e institucionais.  |
+
+
 
 <!--
 | [BrazilHolidays.Net](https://github.com/alexandresanlim/BrazilHolidays.Net)   | Work with Brazil holidays on applications.   | [![Nuget](https://img.shields.io/nuget/v/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net) | [![Nuget](https://img.shields.io/nuget/dt/BrazilHolidays.Net)](https://www.nuget.org/packages/BrazilHolidays.Net) |
