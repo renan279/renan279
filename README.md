@@ -1,10 +1,10 @@
 <h1 align='center'>
-  Olá! 👋 Me chamo Renan. 👨‍💻
+  Olá! 👋 Me chamo Renan Francisco. 👨‍💻
 </h1>
 
 <p align='center'>
   Atualmente sou desenvolvedor Front-End e UI/UX Designer.
-  Tenho experiência como editor de vídeo e imagem.
+  Também tenho experiência como editor de vídeo e imagem.
 </p>
 
 
